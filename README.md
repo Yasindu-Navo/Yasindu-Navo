@@ -64,21 +64,22 @@ Git · Docker · Linux · Google Cloud · VS Code · Sublime Text
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yasindu-Navo&show_icons=true&count_private=true&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff&icon_color=0891b2)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yasindu-Navo&show_icons=true&count_private=true&hide_border=true&theme=dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Yasindu-Navo&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasindu-Navo&langs_count=8&layout=compact&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasindu-Navo&layout=compact&langs_count=8&theme=dark&hide_border=true)
+
 
 ---
 
 ## 🚀 Top Repositories
 
 | Backend | Frontend |
-|-------|----------|
-| ![Wave Mirissa BE](https://github-readme-stats.vercel.app/api/pin/?username=Yasindu-Navo&repo=Wave_Mirissa-BE&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff) | ![Wave Mirissa FE](https://github-readme-stats.vercel.app/api/pin/?username=Yasindu-Navo&repo=WaveMirissa-frontend&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff) |
+|--------|----------|
+| ![Wave Mirissa BE](https://github-readme-stats.vercel.app/api/pin/?username=Yasindu-Navo&repo=Wave_Mirissa-BE&theme=dark&hide_border=true) | ![Wave Mirissa FE](https://github-readme-stats.vercel.app/api/pin/?username=Yasindu-Navo&repo=WaveMirissa-frontend&theme=dark&hide_border=true) |
 
-![NeuroBlog FE](https://github-readme-stats.vercel.app/api/pin/?username=Yasindu-Navo&repo=NeuroBlog-FE&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff)
+![NeuroBlog FE](https://github-readme-stats.vercel.app/api/pin/?username=Yasindu-Navo&repo=NeuroBlog-FE&theme=dark&hide_border=true)
 
 ---
 
