@@ -1,47 +1,93 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Yasindu Navodh
-=======================================================================================================================================
+# 👋 Hi, I’m Yasindu Navodh
 
-Aspiring Software Enginner
---------------------------
+![Wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-Motivated final-year Computer Science undergraduate with hands-on experience in full-stack web
+## Aspiring Software Engineer
 
-development. Skilled in building scalable applications, developing RESTful APIs, and working with
+Motivated final-year **Computer Science undergraduate** with hands-on experience in **full-stack web development**.  
+Skilled in building **scalable applications**, **RESTful APIs**, and working with **SQL / NoSQL databases**.  
+Strong understanding of **software architecture**, debugging, and deployment workflows.  
+A fast learner with solid problem-solving skills, committed to delivering **clean, maintainable code**.
 
-SQL/NoSQL databases. Strong understanding of software architecture, debugging, and deployment
+---
 
-workflows. A fast learner with solid problem-solving skills, committed to delivering clean, maintainable
+## 📍 About Me
 
-code and contributing effectively to real-world development teams.
+- 🌍 Based in **Sri Lanka**
+- 🖥️ Portfolio: [yasindun.me](http://yasindun.me)
+- ✉️ Email: [yasindunavodh06@gmail.com](mailto:yasindunavodh06@gmail.com)
+- 🧠 Currently learning **Full-Stack Web Development**
 
-* 🌍  I'm based in Sri Lanka
-* 🖥️  See my portfolio at [yasindun.me](http://yasindun.me)
-* ✉️  You can contact me at [yasindunavodh06@gmail.com](mailto:yasindunavodh06@gmail.com)
-* 🧠  I'm currently learning FUll Stack Web Development
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks**  
+Java · JavaScript · PHP · Python · C · Spring Boot · React · Node.js
+
+**Frontend**  
+HTML5 · CSS3 · Tailwind CSS
+
+**Databases**  
+MySQL · PostgreSQL · MongoDB
+
+**Tools & Platforms**  
+Git · Docker · Linux · Google Cloud · VS Code · Sublime Text
 
 <p align="left">
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36"/>
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/Yasindu-Navo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/yasindu-navodh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-<a href="https://www.github.com/Yasindu-Navo" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Yasindu-Navo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-### Badges
+## 🌐 Socials
 
-<b>My GitHub Stats</b>
+<p align="left">
+<a href="https://www.github.com/Yasindu-Navo">
+<img src="https://img.shields.io/github/followers/Yasindu-Navo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
+</a>
+<a href="https://www.linkedin.com/in/yasindu-navodh">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0891b2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
-<a href="http://www.github.com/Yasindu-Navo"><img src="https://github-readme-stats.vercel.app/api?username=Yasindu-Navo&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Yasindu-Navo's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/Yasindu-Navo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Yasindu-Navo&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## 📊 GitHub Stats
 
-<a href="https://github.com/Yasindu-Navo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasindu-Navo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yasindu-Navo&show_icons=true&count_private=true&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff&icon_color=0891b2)
 
-<b>Top Repositories</b>
+![GitHub Streak](https://streak-stats.demolab.com?user=Yasindu-Navo&theme=dark&hide_border=true)
 
-<div width="100%" align="center"><a href="https://github.com/Yasindu-Navo/Wave_Mirissa-BE" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yasindu-Navo&repo=Wave_Mirissa-BE&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Yasindu-Navo/WaveMirissa-frontend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yasindu-Navo&repo=WaveMirissa-frontend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasindu-Navo&langs_count=8&layout=compact&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff)
 
-<br /><br /><br /><br /><br />
+---
 
-<div width="100%" align="center"><a href="https://github.com/Yasindu-Navo/NeuroBlog-FE" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yasindu-Navo&repo=NeuroBlog-FE&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+## 🚀 Top Repositories
+
+| Backend | Frontend |
+|-------|----------|
+| ![Wave Mirissa BE](https://github-readme-stats.vercel.app/api/pin/?username=Yasindu-Navo&repo=Wave_Mirissa-BE&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff) | ![Wave Mirissa FE](https://github-readme-stats.vercel.app/api/pin/?username=Yasindu-Navo&repo=WaveMirissa-frontend&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff) |
+
+![NeuroBlog FE](https://github-readme-stats.vercel.app/api/pin/?username=Yasindu-Navo&repo=NeuroBlog-FE&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff)
+
+---
+
+## 🎯 Career Goals
+
+- Software Engineer Intern / Trainee roles  
+- Backend & Full-Stack development opportunities  
+- Teams that value **learning, clean code, and impact**
+
+---
+
+⭐ *If you like my work, feel free to follow or connect!*
